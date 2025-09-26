@@ -40,7 +40,7 @@ Esse trabalho marca o início da minha jornada na programação! 🚀
    ./martermind
 
 ## 🖼️ Demonstração
-<p align="center"> <img src="https://via.placeholder.com/600x300.png?text=Exemplo+do+Programa+em+Execução" alt="Demonstração do jogo" /> </p>
+<p align="center"> <img src="https://github.com/VinicioCouto/Martermind.c/blob/main/Captura%20de%20tela%202025-09-26%20155918.png" alt="Demonstração do jogo" /> </p>
 
 👨‍💻 Autor
 
